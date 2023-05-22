@@ -43,4 +43,4 @@ You only need to change the extension, for example `.bash` => `.bashx`.
 > `bash webash.bash`
 
 ## Notes:
-- This tool will consume a lot of disk usage, so don't forget to housekeep `webash-tempdata` and` scan-logs`.
+- This tool will consume a lot of disk usage, so don't forget to housekeep `webash-tempdata` and `scan-logs`.
